@@ -1,0 +1,4 @@
+com\pod1\loggingToDBMS\LoggingToDBMSApplication.class
+com\pod1\loggingToDBMS\repository\LoggingToDbmsDTO.class
+com\pod1\loggingToDBMS\Logchecker.class
+com\pod1\loggingToDBMS\model\Logs.class
